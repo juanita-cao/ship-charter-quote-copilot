@@ -294,7 +294,7 @@ _INPUT_CATEGORIES: list[tuple[str, bool, list[tuple]]] = [
         True,
         [
             ("text", "Route", "input_route", "SHANGHAI-INCHON-OSAKA"),
-            ("text", "Cargo Description", "input_cargo_description", "玉米"),
+            ("text", "Cargo Description", "input_cargo_description", "Corn"),
             ("number", "Quantity (RT)", "input_quantity", 10000.0, 100.0),
             ("number", "Freight Rate (USD/RT)", "input_freight_rate", 20.0, 1.0),
             ("number", "Commission Rate (%)", "input_commission_rate", 2.5, 0.1),
