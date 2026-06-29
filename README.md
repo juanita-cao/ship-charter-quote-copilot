@@ -15,7 +15,7 @@ A decision-support tool for a ship charterer (an "Operator," who charters a vess
 
 ## Demo Preview
 
-![Workspace preview](docs/assets/dashboard_preview.png)
+![Workspace preview](docs/assets/dashboard_preview.png?v=2)
 
 ---
 
